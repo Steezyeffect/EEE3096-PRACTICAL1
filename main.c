@@ -50,7 +50,6 @@ DMA_HandleTypeDef hdma_usart2_tx;
 
 /* USER CODE BEGIN PV */
 char buffer[64];
-char buffer2[64];
 uint16_t delay = 500;
 uint32_t de_bounce = 0;
 uint32_t adc_val=0;
